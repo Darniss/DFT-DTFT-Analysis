@@ -1,0 +1,12 @@
+% Reference
+% https://chowdera.com/2021/08/20210822034338489s.html
+% https://coecs.ou.edu/Joseph.P.Havlicek/ece5213/homework/hw07/hw07sol.pdf
+% https://chowdera.com/2021/08/20210822034338489s.html
+
+% https://in.mathworks.com/matlabcentral/answers/336375-generate-y-n-y-n-1-x-n
+% https://in.mathworks.com/matlabcentral/answers/55210-discrete-system-solving-with-matlab
+% https://in.mathworks.com/matlabcentral/answers/587441-hanning-window-frequency-domain-graph
+% https://in.mathworks.com/matlabcentral/answers/587441-hanning-window-frequency-domain-graph
+% https://in.mathworks.com/matlabcentral/answers/21192-how-to-do-implement-difference-equation-in-matlab
+% https://vikramlearning.com/jntuh/notes/digital-signal-processing-lab/find-frequency-response-of-a-given-system-given-in-transfer-function-differential-equation-form/369
+% https://www.slideshare.net/amrelsayedm/dspfoehu-matlab-02-the-discretetime-fourier-analysis
