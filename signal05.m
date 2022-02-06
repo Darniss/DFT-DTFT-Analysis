@@ -1,5 +1,5 @@
 %                           DSP
-% REG : AMENP2WNA21003
+
 % Name : Darniss 
 
 %% 1. Obtain the DTFT and DFT for the causal signal 𝑥(𝑛) = {3,2,1,0,1,2}
